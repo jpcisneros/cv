@@ -9,8 +9,6 @@ Juan Pablo Cisneros
 
 Personal Details
 ----------------
-E-mail
-: jp.mnsss@gmail.com
 
 Linkedin: [jpcisneros](https://www.linkedin.com/in/jpcisneros)
 
