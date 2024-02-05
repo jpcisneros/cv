@@ -19,10 +19,11 @@ Introduction
 ------------
 I'm a Cloud Engineer focused in Google Cloud Platform infrastructure who 
 thrives on delivering quality solutions. Passionate for electronics and 
-computing science, I've developed well in different fields which gives me an 
-out of the box thinking approach. I understand how to keep the focus on the 
-goals in fast paced working environments to achieve the agreed objectives.  
-I love story telling and slow hiking.
+computing science, I've performed well in different fields which gives me a 
+holistic thinking approach. I understand how to keep the focus on the 
+goals in fast paced working environments to achieve objectives.  
+Currently diving into the crusts of Rust. I like to keep updated with new 
+and old technologies.  
 
 Education
 ---------
@@ -46,9 +47,19 @@ Certifications
 Experience
 ----------
 
+**Freelancer**  
+- Cloud DevOps  
+- Feb 2023 - Present  
+
+Engaged in short/weekend projects to migrate applications from different platforms
+(mostly Heroku) into Google Cloud (mostly Google Kubernetes Engine). Designed and 
+implemented Service Mesh for mTLS and zero trust between services with little to no 
+application code modification. Migrated from "dot-env" configuration to a securer way
+of setting app configuration on GKE. 
+
 **GFT Consulting**
 - Cloud Architect / Devops engineer
-- Nov 2022 - Present  
+- Nov 2022 - Oct 2023  
 
 Migrate applications from Onprem to Google Cloud. Main duties include 
 implement automations and advise developers in the new streamlined model 
