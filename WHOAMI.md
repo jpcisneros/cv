@@ -13,7 +13,7 @@ Personal Details
 Linkedin: [jpcisneros](https://www.linkedin.com/in/jpcisneros)
 
 Age
-: 35 years old
+: Used 5¼ diskettes for a while. 
 
 Introduction
 ------------
