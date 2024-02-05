@@ -1,9 +1,9 @@
 Juan Pablo Cisneros
 ===================
-![IT is a ME](https://media.licdn.com/dms/image/C4E03AQEeYSOQ602YYg/profile-displayphoto-shrink_200_200/0/1516786153870?e=1686182400&v=beta&t=IOchIVC3KT0miTgn8okbS4LAkyfTSGmnY4wQ7HancBE)
+![IT is a ME](https://raw.githubusercontent.com/jpcisneros/cv/main/me.jpg)
 ----
 
->"__Reboot it__, if still fails, reboot it __harder__.”
+>"It's never too late to review the code before it reaches production"
 
 ----
 
@@ -13,16 +13,17 @@ Personal Details
 Linkedin: [jpcisneros](https://www.linkedin.com/in/jpcisneros)
 
 Age
-: 35 years old
+: Used 5¼ diskettes for a while. 
 
 Introduction
 ------------
 I'm a Cloud Engineer focused in Google Cloud Platform infrastructure who 
 thrives on delivering quality solutions. Passionate for electronics and 
-computing science, I've developed well in different fields which gives me an 
-out of the box thinking approach. I understand how to keep the focus on the 
-goals in fast paced working environments to achieve the agreed objectives.  
-I love story telling and slow hiking.
+computing science, I've performed well in different fields which gives me a 
+holistic thinking approach. I understand how to keep the focus on the 
+goals in fast paced working environments to achieve objectives.  
+Currently diving into the crusts of Rust. I like to keep updated with new 
+and old technologies.  
 
 Education
 ---------
@@ -46,9 +47,32 @@ Certifications
 Experience
 ----------
 
+**Consultant**  
+- Cloud DevOps Freelance  
+- Feb 2023 - Present  
+
+Engaged in short/weekend projects to migrate applications from different platforms
+(mostly Heroku) into Google Cloud (mostly Google Kubernetes Engine). Designed and 
+implemented Service Mesh for mTLS and zero trust between services with little to no 
+application code modification. Migrated from "dot-env" configuration to a securer way
+of setting app configuration on GKE. **Stack**: Helm. Kubernetes. GithubActions. Python.
+Terraform. Docker. (Learning Dagger).
+Load: 8 to 12 h/month
+
+**Consultant**
+- Cloud DevOps / OnPrem SysAdmin
+- Oct 2023 - Present 
+
+Migration project from BareMetal to Google Cloud. Architect of web applications.
+Cloud engineer oncall. Implementation of Cache mechanism with Varnish to mitigate
+performance issues. VCL fine tuning. Root cause finding on C#, and Express. 
+Containerization and terraformation of live/only-prod environments.  
+**Stack**: Docker. GKE. GCE. GTM. Basic CloudFunctions. Ansible. BitBucket. Terraform.  
+Load: Full time. 2 week notice period. 
+
 **GFT Consulting**
 - Cloud Architect / Devops engineer
-- Nov 2022 - Present  
+- Nov 2022 - Oct 2023  
 
 Migrate applications from Onprem to Google Cloud. Main duties include 
 implement automations and advise developers in the new streamlined model 
