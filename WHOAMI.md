@@ -1,6 +1,6 @@
 Juan Pablo Cisneros
 ===================
-![IT is a ME](https://media.licdn.com/dms/image/C4E03AQEeYSOQ602YYg/profile-displayphoto-shrink_200_200/0/1516786153870?e=1686182400&v=beta&t=IOchIVC3KT0miTgn8okbS4LAkyfTSGmnY4wQ7HancBE)
+![IT is a ME](https://raw.githubusercontent.com/jpcisneros/cv/main/me.jpg)
 ----
 
 >"It's never too late to review the code before it reaches production"
