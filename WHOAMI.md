@@ -3,7 +3,7 @@ Juan Pablo Cisneros
 ![IT is a ME](https://media.licdn.com/dms/image/C4E03AQEeYSOQ602YYg/profile-displayphoto-shrink_200_200/0/1516786153870?e=1686182400&v=beta&t=IOchIVC3KT0miTgn8okbS4LAkyfTSGmnY4wQ7HancBE)
 ----
 
->"__Reboot it__, if still fails, reboot it __harder__.”
+>"It's never too late to review the code before it reaches production"
 
 ----
 
