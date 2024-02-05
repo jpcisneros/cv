@@ -47,15 +47,28 @@ Certifications
 Experience
 ----------
 
-**Freelancer**  
-- Cloud DevOps  
+**Consultant**  
+- Cloud DevOps Freelance  
 - Feb 2023 - Present  
 
 Engaged in short/weekend projects to migrate applications from different platforms
 (mostly Heroku) into Google Cloud (mostly Google Kubernetes Engine). Designed and 
 implemented Service Mesh for mTLS and zero trust between services with little to no 
 application code modification. Migrated from "dot-env" configuration to a securer way
-of setting app configuration on GKE. 
+of setting app configuration on GKE. **Stack**: Helm. Kubernetes. GithubActions. Python.
+Terraform. Docker. (Learning Dagger).
+Load: 8 to 12 h/month
+
+**Consultant**
+- Cloud DevOps / OnPrem SysAdmin
+- Oct 2023 - Present 
+
+Migration project from BareMetal to Google Cloud. Architect of web applications.
+Cloud engineer oncall. Implementation of Cache mechanism with Varnish to mitigate
+performance issues. VCL fine tuning. Root cause finding on C#, and Express. 
+Containerization and terraformation of live/only-prod environments.  
+**Stack**: Docker. GKE. GCE. GTM. Basic CloudFunctions. Ansible. BitBucket. Terraform.  
+Load: Full time. 2 week notice period. 
 
 **GFT Consulting**
 - Cloud Architect / Devops engineer
