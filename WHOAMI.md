@@ -1,9 +1,9 @@
 Juan Pablo Cisneros
 ===================
-![IT is a ME](https://raw.githubusercontent.com/jpcisneros/cv/main/me.jpg)
+![IT is ME](https://raw.githubusercontent.com/jpcisneros/cv/main/me.jpg)
 ----
 
->"It's never too late to review the code before it reaches production"
+> "The wise speak only of what they know." -- Gandalf
 
 ----
 
@@ -13,62 +13,44 @@ Personal Details
 Linkedin: [jpcisneros](https://www.linkedin.com/in/jpcisneros)
 
 Age
-: Used 5¼ diskettes for a while. 
+: Used 5¼ diskettes. 
 
 Introduction
 ------------
-I'm a Cloud Engineer focused in Google Cloud Platform infrastructure who 
-thrives on delivering quality solutions. Passionate for electronics and 
-computing science, I've performed well in different fields which gives me a 
+I'm a Cloud Engineer focused in Google Cloud Platform and recently Azure Cloud
+infrastructure who thrives on delivering quality solutions. Passionate for electronics and 
+computing science, I've been exposed to different fields which gives me a 
 holistic thinking approach. I understand how to keep the focus on the 
 goals in fast paced working environments to achieve objectives.  
 Currently diving into the crusts of Rust. I like to keep updated with new 
 and old technologies.  
 
-Education
----------
-
-2008-2011:
-  - Industrial electronics and Automation engineering technician. 
-  - Hydraulic and pneumatic automation.
-  - Industrial grade electronics. Design and manufacture. 
-  
-2001-2007:    
-  - Bachelor (Argentinian mid-school) in production of goods and
-services. Speciality: Electronics engineering specialized technician. 
-  - Focused in design and manufacture of electronic appliances.
-  - Microchip PIC8 Assembler and AVR C. 
-
-Certifications
---------------
-2021:	
- - Google Cloud Associate Engineer [Credentials](https://www.credential.net/e912538d‐9cbc‐4061‐809b‐34e2333581b7?record_view=true)
-
 Experience
 ----------
 
 **Consultant**  
-- Cloud DevOps Freelance  
+- Cloud DevOps - SysAdmin - Freelance  
 - Feb 2023 - Present  
 
-Engaged in short/weekend projects to migrate applications from different platforms
-(mostly Heroku) into Google Cloud (mostly Google Kubernetes Engine). Designed and 
-implemented Service Mesh for mTLS and zero trust between services with little to no 
-application code modification. Migrated from "dot-env" configuration to a securer way
-of setting app configuration on GKE. **Stack**: Helm. Kubernetes. GithubActions. Python.
-Terraform. Docker. (Learning Dagger).
-Load: 8 to 12 h/month
+Engaged in projects to migrate applications from different platforms into Google Cloud 
+(mostly Google Kubernetes Engine). Designed and implemented Service Mesh for mTLS and
+zero trust between services with little to no application code modification. 
+IOT and Edge computing. C++/QT apps containerization for environmental and electric power
+grid battery optimization (edge). Automated deployment to embedded targets on the edge (TI MSP432). 
+Edge orchestration for multi tennancy with KubeEdge on ARM and Intel cpu.
+
+**Stack**: Helm. Kubernetes. GithubActions. Python. Yocto. Qt.
+Terraform. Docker. Dagger. Bitbucket Pipelines. Azure. Google Cloud. 
 
 **Consultant**
 - Cloud DevOps / OnPrem SysAdmin
-- Oct 2023 - Present 
+- Oct 2023 - Jan 2024
 
 Migration project from BareMetal to Google Cloud. Architect of web applications.
 Cloud engineer oncall. Implementation of Cache mechanism with Varnish to mitigate
 performance issues. VCL fine tuning. Root cause finding on C#, and Express. 
 Containerization and terraformation of live/only-prod environments.  
-**Stack**: Docker. GKE. GCE. GTM. Basic CloudFunctions. Ansible. BitBucket. Terraform.  
-Load: Full time. 2 week notice period. 
+**Stack**: Docker. GKE. GCE. GTM. CloudFunctions. Ansible. BitBucket. Terraform.  
 
 **GFT Consulting**
 - Cloud Architect / Devops engineer
@@ -138,7 +120,7 @@ and VAC maintenance. Development of in-house failure traceability system (web)
 - 2011-2015
 
 Call center activities around Internet and phone services. 
-Activelly engaged in the implementation of ClaroCloud services (Parallel VMs 
+Activelly engaged in the implementation of ClaroCloud services (Parallels VMs 
 and Office365 services) 
 
 **Telecom Argentina**
@@ -148,6 +130,26 @@ and Office365 services)
 **DAE Electronica**
 - Electronic engineering technician
 - 2003-2008
+
+
+Education
+---------
+
+2008-2011:
+  - Industrial electronics and Automation engineering technician. 
+  - Hydraulic and pneumatic automation.
+  - Industrial grade electronics. Design and manufacture. 
+  
+2001-2007:    
+  - Bachelor (Argentinian mid-school) in production of goods and
+services. Speciality: Electronics engineering specialized technician. 
+  - Focused in design and manufacture of electronic appliances.
+  - Microchip PIC8 Assembler and AVR C. 
+
+Certifications
+--------------
+2021:	
+ - Google Cloud Associate Engineer [Credentials](https://www.credential.net/e912538d‐9cbc‐4061‐809b‐34e2333581b7?record_view=true)
 
 Strengths
 ------------
