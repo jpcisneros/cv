@@ -1,0 +1,147 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap");
+
+/* General Styles */
+body {
+  margin: 0 auto;
+  background-color: #f4f4f4;
+  font-family: "Roboto", sans-serif;
+  color: #333333;
+  line-height: 1.6;
+  max-width: 800px;
+  padding: 40px;
+  font-size: 14px;
+}
+
+/* Heading Styles */
+h1 {
+  margin-bottom: 20px;
+  font-size: 2.5em;
+  font-weight: 700;
+  color: #2c3e50;
+}
+
+h2 {
+  margin-top: 40px;
+  font-size: 1.8em;
+  font-weight: 600;
+  color: #34495e;
+}
+
+h3 {
+  margin-top: 20px;
+  font-size: 1.5em;
+  font-weight: 500;
+  color: #7f8c8d;
+}
+
+h4 {
+  margin-top: 10px;
+  font-size: 1.2em;
+  font-weight: 400;
+  color: #95a5a6;
+}
+
+h5,
+h6 {
+  margin-top: 10px;
+  font-size: 1em;
+  font-weight: 300;
+  color: #bdc3c7;
+}
+
+/* Paragraph and List Styles */
+p {
+  margin-bottom: 20px;
+  max-width: 760px;
+  color: #444444;
+  font-weight: 300;
+}
+
+ul,
+ol {
+  margin: 20px 0;
+  padding-left: 20px;
+  color: #555555;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+/* Link Styles */
+a {
+  color: #3498db;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #2980b9;
+  text-decoration: underline;
+}
+
+/* Blockquote Styles */
+blockquote {
+  border-left: 4px solid #3498db;
+  padding: 10px 20px;
+  margin: 20px 0;
+  background-color: #ecf0f1;
+  font-style: italic;
+  color: #7f8c8d;
+}
+
+blockquote p {
+  margin: 0;
+  color: #2c3e50;
+}
+
+/* Code Block Styles */
+code {
+  font-family:
+    Consolas,
+    Monaco,
+    Andale Mono,
+    monospace;
+  background-color: #ecf0f1;
+  padding: 2px 4px;
+  font-size: 13px;
+  border-radius: 3px;
+}
+
+/* Horizontal Rule Styles */
+hr {
+  border: 0;
+  height: 1px;
+  background: #ddd;
+  margin: 40px 0;
+}
+
+/* Image Styling */
+img {
+  border-radius: 8px;
+  max-width: 150px;
+  display: block;
+  margin: 0 auto 20px auto;
+}
+
+/* Aside Styling */
+aside {
+  display: block;
+  float: right;
+  width: 30%;
+  margin: 20px 0;
+}
+
+@media (max-width: 768px) {
+  aside {
+    float: none;
+    width: 100%;
+  }
+}
+
+strong,
+b {
+  font-weight: 700;
+  /* Make bold text bolder */
+  color: #2c3e50;
+  /* Darker color for better contrast */
+}
