@@ -9,7 +9,7 @@ panme:
 	pandoc -t html --css styles.css \
 		WHOAMI.md \
 		-o WHOAMI.pdf \
-		-s -tpdf --pdf-engine=weasyprint --metadata title="Juan Pablo Cisneros - Resume"
+		-s -tpdf --pdf-engine=weasyprint --metadata title="Juan Pablo Cisneros"
 
 all: panme
 
