@@ -15,6 +15,9 @@ Linkedin: [jpcisneros](https://www.linkedin.com/in/jpcisneros)
 Age
 : Used 5¼ diskettes. 
 
+Location
+: Working worldwide. Based in Paraná, Argentina. 
+
 Introduction
 ------------
 I'm a Cloud Engineer focused in Google Cloud Platform and recently Azure Cloud
@@ -149,7 +152,7 @@ services. Speciality: Electronics engineering specialized technician.
 Certifications
 --------------
 2021:	
- - Google Cloud Associate Engineer [Credentials](https://www.credential.net/e912538d‐9cbc‐4061‐809b‐34e2333581b7?record_view=true)
+ - Google Cloud Associate Engineer [Credentials](https://google.accredible.com/e912538d-9cbc-4061-809b-34e2333581b7)
 
 Strengths
 ------------
