@@ -1,5 +1,53 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap");
 
+@page {
+  size: portrait;
+  margin-top: 1cm;
+  margin-bottom: 0cm;
+  margin-left: 0cm;
+  margin-right: 0cm;
+  padding: 0.5cm;
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-color: #eee;
+
+  @top-left {
+    background: #000;
+    color: #fff;
+    content: string(title) " | Juan Pablo's Resume ";
+    height: 1cm;
+    text-align: center;
+    width: auto;
+    font-size: 1em;
+    font-weight: bold;
+    padding-right: 0.5cm;
+    padding-left: 0.5cm;
+  }
+
+  @top-center {
+    background: none;
+    content: none;
+    margin-bottom: 0cm;
+  }
+
+  @top-right {
+    background: none;
+    content: none;
+  }
+
+  @bottom-left {
+    background: none;
+    content: none;
+  }
+
+  @bottom-right {
+    height: 1cm;
+    vertical-align: middle;
+    margin-top: 0.4cm;
+    width: 5.5cm;
+  }
+}
+
 /* General Styles */
 body {
   margin: 0 auto;
@@ -14,28 +62,28 @@ body {
 
 /* Heading Styles */
 h1 {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   font-size: 2.5em;
   font-weight: 700;
   color: #2c3e50;
 }
 
 h2 {
-  margin-top: 40px;
+  margin-top: 10px;
   font-size: 1.8em;
   font-weight: 600;
   color: #34495e;
 }
 
 h3 {
-  margin-top: 20px;
+  margin-top: 5px;
   font-size: 1.5em;
   font-weight: 500;
   color: #7f8c8d;
 }
 
 h4 {
-  margin-top: 10px;
+  margin-top: 5px;
   font-size: 1.2em;
   font-weight: 400;
   color: #95a5a6;
@@ -43,7 +91,7 @@ h4 {
 
 h5,
 h6 {
-  margin-top: 10px;
+  margin-top: 5px;
   font-size: 1em;
   font-weight: 300;
   color: #bdc3c7;
@@ -51,7 +99,7 @@ h6 {
 
 /* Paragraph and List Styles */
 p {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   max-width: 760px;
   color: #444444;
   font-weight: 300;
@@ -65,7 +113,7 @@ ol {
 }
 
 li {
-  margin-bottom: 10px;
+  margin-bottom: 0px;
 }
 
 /* Link Styles */
